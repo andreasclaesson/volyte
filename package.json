@@ -1,0 +1,31 @@
+{
+  "name": "volyte",
+  "version": "0.0.1-beta.1",
+  "description": "A lightweight Discord bot library focused on performance and minimal resource usage.",
+  "main": "src/index.js",
+  "type": "module",
+  "publishConfig.access": "public",
+  "scripts": {
+    "test": "node examples/bot.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "library",
+    "performance",
+    "lightweight"
+  ],
+  "author": "Andreas Claesson <andreas@netbyte.host>",
+  "license": "Apache2.0",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andreasclaesson/volyte.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andreasclaesson/volyte/issues"
+  },
+  "homepage": "https://github.com/andreasclaesson/volyte#readme"
+}
